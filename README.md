@@ -1,2 +1,6 @@
 <h1> 🥷 Welcome Friends  👽</h1>
-<p>My name is ฿ⱧɄ₩₳₦ ₱₳₮łĐ₳Ɽ, and i am from Indore, India. I have completed my degree in Bachelor of Computer Application from DAVV university Indore.  </p>
+<p>My name is Bhuwan Patidar from Indore, India 🇮🇳 , Working and learning in Security Domain. </p>
+<h3>My Skills:</h3>
+<p>
+  <img alt="React" src="./Image/py.jpg" height="30px" />
+</p>
