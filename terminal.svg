@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- terminal.svg
+     Save this file to your repo (e.g. at root), then embed it in README.md with:
+     ![Terminal](./terminal.svg)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220" role="img" aria-label="Terminal styled card">
+  <style><![CDATA[
+    /* Ensure the foreignObject's content uses full svg area */
+    .bg { fill: #0b0f13; }
+    /* Fallback text style for SVG-native text (not used) */
+    .sr { font-family: monospace; font-size: 14px; fill: #9ae6b4; }
+
+    /* inside foreignObject: normal CSS */
+    .term {
+      box-sizing: border-box;
+      font-family: 'SFMono-Regular', ui-monospace, Menlo, Monaco, "Roboto Mono", "Ubuntu Mono", monospace;
+      background: linear-gradient(180deg, #020409 0%, #071019 100%);
+      border-radius: 10px;
+      padding: 18px;
+      width: 780px;
+      height: 180px;
+      color: #9ae6b4;
+      -webkit-font-smoothing: antialiased;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      box-shadow: 0 6px 18px rgba(2,8,14,0.6), inset 0 1px 0 rgba(255,255,255,0.02);
+      border: 1px solid rgba(120,140,160,0.06);
+    }
+
+    .header {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 10px;
+      align-items: center;
+      width: 100%;
+    }
+    .dots {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .dot {
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      opacity: 0.95;
+    }
+    .dot.red { background:#ff5f56; }
+    .dot.yellow { background:#ffbd2e; }
+    .dot.green { background:#27c93f; }
+
+    .content {
+      width:100%;
+    }
+
+    .line {
+      white-space: nowrap;
+      font-size: 14px;
+      line-height: 20px;
+      margin: 2px 0;
+      color: #c8f6d8;
+    }
+
+    .prompt {
+      color: #7dd3fc;
+      margin-right: 8px;
+    }
+
+    .command {
+      display: inline-block;
+      /* hide overflow so typing looks real */
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 2px solid rgba(200,230,216,0.9);
+      box-sizing: content-box;
+      /* animate typing: adjust steps(...) to match character count for sharper typing */
+      animation: typing 3.2s steps(36, end) 0s forwards, blink-caret 0.9s step-end infinite 3.2s;
+      max-width: 100%;
+    }
+
+    /* typing: animate width from 0 to the full measured width */
+    @keyframes typing {
+      from { width: 0ch; }
+      to   { width: 36ch; } /* adjust if you change the text length */
+    }
+
+    /* caret blink */
+    @keyframes blink-caret {
+      from, to { border-color: transparent; }
+      50% { border-color: rgba(200,230,216,0.9); }
+    }
+
+    .small {
+      font-size: 12px;
+      color: #9bb7a8;
+    }
+
+    /* subtle glow */
+    .term { box-shadow: 0 8px 26px rgba(7,18,22,0.6); }
+  ]]></style>
+
+  <!-- background rounded rect -->
+  <rect x="10" y="10" rx="12" ry="12" width="800" height="200" class="bg"/>
+
+  <!-- fallback text for non-foreignObject readers / assistive tech -->
+  <text x="24" y="36" class="sr">Terminal preview — if you don't see styling, use the SVG file directly.</text>
+
+  <!-- Render HTML inside foreignObject: this allows CSS + nicer layout and animations -->
+  <foreignObject x="20" y="20" width="780" height="180">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <div class="term" xmlns="http://www.w3.org/1999/xhtml">
+        <div class="header" role="presentation">
+          <div class="dots" aria-hidden="true">
+            <div class="dot red"></div>
+            <div class="dot yellow"></div>
+            <div class="dot green"></div>
+          </div>
+          <div class="small" style="margin-left:10px;">~ /home/your-username</div>
+        </div>
+
+        <div class="content" role="region" aria-label="terminal output">
+          <div class="line">
+            <span class="prompt">$</span>
+            <span class="command">whoami && echo "Hi — I'm Your Name (open-source tinkerer)"</span>
+          </div>
+
+          <div class="line small" style="margin-top:10px; color:#8fb7a0;">
+            <span class="prompt">$</span>
+            <span>● Projects: pentest-tools • crypto-ctf • tiny-scripts</span>
+          </div>
+
+          <div class="line small" style="margin-top:6px; color:#8fb7a0;">
+            <span class="prompt">$</span>
+            <span>● Contact: <span style="color:#c9f6d9">mail@example.com</span></span>
+          </div>
+        </div>
+      </div>
+    </body>
+  </foreignObject>
+</svg>
