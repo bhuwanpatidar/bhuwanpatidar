@@ -41,13 +41,15 @@
     </tr>
 	  <tr>
       <td><b>PII Detection and Redaction Tool</b><a href="https://github.com/bhuwanpatidar/PII_Transformer"> [Link]</a></td>
-      <td></td>
+      <td><ul><li>Takes CSV file as input.</li><li>It will mask all PII data within file if you will provide key/column name.</li><li>Simple Use and fast tool for data masking.</li></ul></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
     
   </tbody>
 </table>
+
+
 
 
 
