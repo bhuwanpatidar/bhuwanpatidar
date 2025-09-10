@@ -34,10 +34,10 @@
   </thead>
    <tbody>
     <tr>
-      <td><b>PII Detection and Redaction Tool</b><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"></a></td>
+      <td><b>Kalki</b><a href="https://github.com/bhuwanpatidar/Kalki"> [Link]</a></td>
       <td></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhuwanpatidar/PII_Transformer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhuwanpatidar/PII_Transformer?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhuwanpatidar/Kalki?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhuwanpatidar/Kalki?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><b>PII Detection and Redaction Tool</b><a href="https://github.com/bhuwanpatidar/PII_Transformer"> [Link]</a></td>
