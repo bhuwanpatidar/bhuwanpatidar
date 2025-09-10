@@ -35,7 +35,7 @@
    <tbody>
 	   <tr>
       <td><b>Secbook-OSINT</b><a href="https://secbook.in/OSINT.html"> [Link]</a></td>
-      <td><ul><li>Challenges to practise and learn OSINT.</li><li></li><li>It's a online web application hosted and maintained by me.</li><li>The Scan part is for Scanning the Output we get from Enumeration.</li></ul></td>
+      <td><ul><li>Challenges to practise and learn OSINT.<a href="https://secbook.in/OSINT.html"></a></li><li></li><li>JS-Fuck De-obuscator <a href="https://secbook.in/Fuck-deob.html"></a>.</li><li>You can learn and practise your skills here.</li></ul></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bhuwanpatidar/Kalki?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bhuwanpatidar/Kalki?style=flat-square&labelColor=343b41"/></td>
     </tr>
