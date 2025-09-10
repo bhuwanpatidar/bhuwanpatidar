@@ -35,7 +35,7 @@
    <tbody>
     <tr>
       <td><b>Kalki</b><a href="https://github.com/bhuwanpatidar/Kalki"> [Link]</a></td>
-      <td></td>
+      <td><ul><li>Simple bash script which takes Domain as input.</li><li>It perform Subdomain Enumeration, URL Grabbing, JS Enumeration and Parameter Discovery on Target.</li><li>Creates Output directory and output files.</li><li>The Scan part is for Scanning the Output we get from Enumeration.</li></ul></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bhuwanpatidar/Kalki?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bhuwanpatidar/Kalki?style=flat-square&labelColor=343b41"/></td>
     </tr>
