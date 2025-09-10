@@ -20,9 +20,34 @@
 
 
 
-<p>------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
-
+<h3>Projects:</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🛠️ Projects</b></td>
+      <td><b>📋 Description</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+    </tr>
+  </thead>
+   <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>PII Detection and Redaction Tool</b></a></td>
+      <td></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><b>PII Detection and Redaction Tool</b><a href="https://github.com/bhuwanpatidar/PII_Transformer"> [Link]</a></td>
+      <td></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
+  </tbody>
+</table>
 
 
 
