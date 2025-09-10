@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/✍️%20Report-Writing-crimson?style=for-the-badge&logo=" />
 <img src="https://img.shields.io/badge/OWASP%20TOP%2010-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEVHcEwjHyAiHiAjHyAjHyAjHyAjHyAjHyAjHCAjHiAjHyACAAAjHyD///8WERLv7+9aV1h9e3ulpKSvrq4PBwkgGxxramqbmZra2dr39/eHhoa+vb3m5eXQz9A5Njeo4ussAAAAC3RSTlMAl1EfFafM7RCTURH0VhYAAAF4SURBVDiNjVNRloMgDNRtrW0zRFBERev9j7lBxGrd97r5UmZIJsmQZe945rcSKG/5M/sjrgXQsiWy3ALF9RN/AEzsuqbpnHwAjwN8LwU2vVqjN0Ip72/8ApCu1C4qTcBluy94rT6iFkbKUYLGI1pJupFQJn3n+6+YY1F6Bev9ZcH8vAjSjNBtAdrpm16j6onn6TWpilAIAewn7433dTNOUtq5jsGzGpQyDJkvqFeeiK1MkQjGWYaNqnvCM8tbDpm1UJigTS33qRliQW7z7MYuFm+MlmYGo1sZ6jAth45vWWm7XQ+izzrv/BhTdLbMJN8eb2UophunSGgIB8IkuOjXWq2NB8K+xCw4BjXbdBBKJJHhl2BRqYEonQSRsc0QA7UUyIYpOSO0+YP06wmvWCgtdxmUjNrELSW1mtPXMuptWdvGOrsS1mV9rFu8QKs/1nWfDaPjfzLM2XL9Qnhb7mxaUx9Ne7b9cLT994fz/en94/GG2J7/z+7wF/BqLoOLnU4sAAAAAElFTkSuQmCC"/>
 
-
+</p>
 
 <p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
@@ -56,7 +56,7 @@
 
 
 
-
+<h3>Connect With Me :</h3>
 
 
 
@@ -65,4 +65,3 @@
 
 
   
-</p>
