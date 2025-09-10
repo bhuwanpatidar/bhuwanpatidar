@@ -11,6 +11,9 @@
 
 <img src="https://img.shields.io/badge/Metasploit-TOOL-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVHcEwNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLkNeLnZTk36AAAAEHRSTlMANnOcu9vx/0UKhg4ZHSxd0L4rGwAAAMtJREFUeAFiAAFGZdf0shCjTiATzF1aDgXJDWABQKtzCENAGIdh/LUzOBiJqCc9aVcVBEUTJMweu2CaXmRN1ZOergc9maaa/53zfbIn/vaGF6fLL1wNbvcJwLrdzUAqAvRVzUERxHIhgJMHOq/kQ9jzoGUHVcthK0lPB3hIAS7E0sQDVOA/0CAxuL6hCaqki/lDMBqDAvTuPBSWyrFBKf5ANDNosMcKSWR1lljPndKaZCXKOmItlBcBbPQtBBjI6QArudXn7OVVnCrtBfFMc0IoeqXbAAAAAElFTkSuQmCC"/>
 
+<img src="https://img.shields.io/badge/🌐%20Networking-purple?style=for-the-badge&logo=" />
+<img src="https://img.shields.io/badge/✍️%20Report-Writing-crimson?style=for-the-badge&logo=" />
+
 
 
 
