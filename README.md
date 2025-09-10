@@ -51,9 +51,11 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bhuwanpatidar/PII_Transformer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/bhuwanpatidar/PII_Transformer?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    
   </tbody>
 </table>
+
+
+
 
 
 
